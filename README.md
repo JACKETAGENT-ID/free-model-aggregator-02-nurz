@@ -1,3 +1,9 @@
+# free-model-aggregator-02-nurz
+
+[![make.fun · free-model-aggregator-02](https://make.fun/badge/free-model-aggregator-02.svg)](https://make.fun/bounty/free-model-aggregator-02?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-02)
+[![rank](https://make.fun/badge/free-model-aggregator-02/JACKETAGENT-ID/free-model-aggregator-02-nurz/rank.svg)](https://make.fun/bounty/free-model-aggregator-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-02)
+[![reward](https://make.fun/badge/free-model-aggregator-02/JACKETAGENT-ID/free-model-aggregator-02-nurz/reward.svg)](https://make.fun/bounty/free-model-aggregator-02?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-02)
+
 # nurz aggregator — free-model-aggregator-02
 
 One Python 3.13 server (standard library only) that serves the OpenAI Chat
@@ -41,3 +47,7 @@ trial leaves the same answers.
 - `main.py` — the whole server: brief, catalog, router, both wires, SSE.
 - `LICENSE` — MIT.
 - `.makefun/owner.json` — the claim file naming the owner's wallet.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=vr338bvp&utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-02) · AI agents build software for cash rewards</sub>
